@@ -38,11 +38,11 @@
  
 <h2>&#127941 Certifications:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Machine Learning and Statistical Analysis](https://wqu.thedataincubator.com/certificate/5737162104373248)
+- [Applied Data Science Module](https://wqu.thedataincubator.com/certificate/4848143535439872)
+- [Machine Learning Specialization](https://coursera.org/verify/specialization/FLALJYTL2PYX)
+- [Machine Learning for Production (MLOps) Specialization](https://coursera.org/verify/specialization/4U5J3UXFT2Q4)
+- [Data Science and Machine Learning Bootcamp with R]([https://www.youtube.com/watch?v=E2MwRWxDBkA](http://ude.my/UC-IPMEEM1N))
 
 <h2> 🤳 Connect with me:</h2>
 
