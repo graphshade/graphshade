@@ -50,5 +50,5 @@
 [<img align="left" alt="ElvisAgbenyega | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/graphshade
+[linkedin]: https://www.linkedin.com/in/elvis-agbenyega/
