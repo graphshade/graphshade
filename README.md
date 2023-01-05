@@ -38,11 +38,11 @@
  
 <h2>&#127941 Certifications:</h2>
 
-- [Machine Learning and Statistical Analysis](https://wqu.thedataincubator.com/certificate/5737162104373248)
-- [Applied Data Science Module](https://wqu.thedataincubator.com/certificate/4848143535439872)
 - [Machine Learning Specialization](https://coursera.org/verify/specialization/FLALJYTL2PYX)
 - [Machine Learning for Production (MLOps) Specialization](https://coursera.org/verify/specialization/4U5J3UXFT2Q4)
-- [Data Science and Machine Learning Bootcamp with R]([https://www.youtube.com/watch?v=E2MwRWxDBkA](http://ude.my/UC-IPMEEM1N))
+- [Machine Learning and Statistical Analysis with Python](https://wqu.thedataincubator.com/certificate/5737162104373248)
+- [Applied Data Science with Python](https://wqu.thedataincubator.com/certificate/4848143535439872)
+- [Data Science and Machine Learning Bootcamp with R]([https://www.youtube.com/watch?v=E2MwRWxDBkA](http://ude.my/UC-IPMEEM1N)
 
 <h2> 🤳 Connect with me:</h2>
 
