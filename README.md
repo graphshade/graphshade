@@ -28,8 +28,8 @@
 
 - <b>R Shiny and Python Dash</b>
   - [Customer Segmentation - R Shiny App](https://github.com/graphshade/customer_segmentation_shiny_app.git)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [SuperStore Dashboard - Plotly Dash App](https://github.com/graphshade/plotly_dash.git)
+
   
 - <b>Others</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
