@@ -9,7 +9,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>R</b>
   - [Predicting Loan Default](https://github.com/graphshade/loan_default.git)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Predicting Credit Card Fraud](https://github.com/graphshade/credit_card_fraud.git)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 
