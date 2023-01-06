@@ -24,9 +24,7 @@
   - [Winners of the National Maths & Science Quiz](https://github.com/graphshade/nmsq.git)
 
 - <b>Microsoft PowerBI Dashboards</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Consumer Sensory Evaluation Dashboard](https://github.com/graphshade/consumer_sensory_dashboard.git)
 
 - <b>R Shiny and Python Dash</b>
   - [Customer Segmentation - R Shiny App](https://github.com/graphshade/customer_segmentation_shiny_app.git)
