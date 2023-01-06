@@ -19,7 +19,7 @@
 - <b>Tableau Dashboards</b>
   - [Brand Equity Dashboard Using Tableau](https://github.com/graphshade/brand_disposition_dashboard.git)
   - [Product Performance and Market Basket Analysis](https://github.com/graphshade/market_basket_analysis.git)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Category Performance and Brand Insight](https://github.com/graphshade/category_performance.git)
 
 - <b>Microsoft PowerBI Dashboards</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
