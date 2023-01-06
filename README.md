@@ -17,7 +17,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b>Tableau Dashboards</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Brand Equity Dashboard Using Tableau](https://github.com/graphshade/brand_disposition_dashboard.git)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
