@@ -20,6 +20,7 @@
   - [Brand Equity Dashboard Using Tableau](https://github.com/graphshade/brand_disposition_dashboard.git)
   - [Product Performance and Market Basket Analysis](https://github.com/graphshade/market_basket_analysis.git)
   - [Category Performance and Brand Insight](https://github.com/graphshade/category_performance.git)
+  - [Ghana COVID19 Dashboard](https://github.com/graphshade/covid19_dashboard.git)
 
 - <b>Microsoft PowerBI Dashboards</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
