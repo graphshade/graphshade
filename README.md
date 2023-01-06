@@ -32,7 +32,7 @@
 
   
 - <b>Others</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Estimating Ghana's COVID19 Effective Reproduction Rate - Bayasian Approach](https://github.com/graphshade/COVID19.git)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
  
