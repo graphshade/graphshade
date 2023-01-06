@@ -8,9 +8,9 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>R</b>
-  - [Predicting Loan Default](https://github.com/graphshade/loan_default.git)
-  - [Predicting Credit Card Fraud](https://github.com/graphshade/credit_card_fraud.git)
-  - [Predicting Customer Churn](https://github.com/graphshade/customer_churn.git)
+  - [Loan Default](https://github.com/graphshade/loan_default.git)
+  - [Credit Card Fraud](https://github.com/graphshade/credit_card_fraud.git)
+  - [Customer Churn](https://github.com/graphshade/customer_churn.git)
 
 
  
