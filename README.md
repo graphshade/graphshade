@@ -10,7 +10,7 @@
 - <b>R</b>
   - [Predicting Loan Default](https://github.com/graphshade/loan_default.git)
   - [Predicting Credit Card Fraud](https://github.com/graphshade/credit_card_fraud.git)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Predicting Customer Churn](https://github.com/graphshade/customer_churn.git)
 
 
  
