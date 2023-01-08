@@ -1,7 +1,7 @@
 <h1>Hi, I'm Elvis! 
 <br/> 
 <br/> 
-An end-to-end data analytics professional</a> looking for data science and analytics-related roles.
+An end-to-end data analytics professional. Currently looking for data science and analytics-related roles.
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
