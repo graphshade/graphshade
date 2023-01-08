@@ -4,9 +4,8 @@
 
 - <b>Python</b>
   - [Cutting down the rate of non-funded donation projects using machine learning](https://github.com/graphshade/donorschoose.git)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Improving the Prediction of Property Assessed Value](https://github.com/graphshade/boston_house.git)
+
 - <b>R</b>
   - [Loan Default](https://github.com/graphshade/loan_default.git)
   - [Credit Card Fraud](https://github.com/graphshade/credit_card_fraud.git)
