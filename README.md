@@ -8,6 +8,7 @@ An end-to-end data analytics professional</a> looking for data science and analy
 - <b>Python</b>
   - [Cutting down the rate of non-funded donation projects using machine learning](https://github.com/graphshade/donorschoose.git)
   - [Improving the Prediction of Property Assessed Value](https://github.com/graphshade/boston_house.git)
+  - [Serving Fake News Detection Model Using Flask](https://github.com/graphshade/fake_news_detection.git)
 
 - <b>R</b>
   - [Loan Default](https://github.com/graphshade/loan_default.git)
