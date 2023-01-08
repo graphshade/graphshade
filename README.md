@@ -1,4 +1,7 @@
-<h1>Hi, I'm Elvis! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analytics Professional</a>
+<h1>Hi, I'm Elvis! 
+<br/> 
+<br/> 
+An end-to-end data analytics professional</a> looking for data science and analytics-related roles.
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
