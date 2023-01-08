@@ -38,6 +38,7 @@ An end-to-end data analytics professional</a> looking for data science and analy
   - [Estimating Ghana's COVID19 Effective Reproduction Rate - Baysian Approach](https://github.com/graphshade/COVID19.git)
   - [Data Processing Script for Survey Data](https://github.com/graphshade/data_processing_script.git)
   - [Dimension Modelling for Data Warehouse Solution](https://github.com/graphshade/dimension_modelling.git)
+  - [Data Modeling - ERD for A Real Estate Company](https://github.com/graphshade/real_estate_erd.git)
  
 <h2>&#127941 Certifications:</h2>
 
