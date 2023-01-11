@@ -1,5 +1,4 @@
 <h1>Hi, I'm Elvis, an end-to-end data analytics professional! </h1>
-<br/> 
  <p> Business-oriented analytics professional with over 4 years of experience using data analytics to drive business decisions. Currently pursuing a master's degree in Business Analytics at Wake Forest University and hoping to work in the Financial or retail sector as a data scientist or in other analytics-related roles </p>
  <br/>
 
