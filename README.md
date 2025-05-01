@@ -1,6 +1,12 @@
-<h1>Hi, I'm Elvis, an end-to-end data analytics professional! </h1>
- <p> Business-oriented analytics professional with over 4 years of experience using data analytics to drive business decisions. Currently pursuing a master's degree in Business Analytics at Wake Forest University and hoping to work in the Financial or retail sector as a data scientist or in other analytics-related roles </p>
+<h1>Hi, I'm Elvis, an end-to-end data scientist! </h1>
+ <p> Business-oriented data scientist with over 4 years of experience using data analytics, machine learning, and generative AI to drive business decisions. </p>
  <br/>
+ 
+<h2>🤖 Artificial Intelligence (AI) Projects:</h2>
+
+- <b>LLM Chatbot</b>
+  - [Zeno: A conversational LLM chatbot or RAG application for data discovery](https://github.com/graphshade/zeno_convex.git)
+
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
