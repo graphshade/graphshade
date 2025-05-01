@@ -11,6 +11,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
+  - [Using Gaussian Kernel Density Estimation to Simulate Safety Stock](https://github.com/graphshade/safety_stock_simulation.git)
   - [Cutting down the rate of non-funded donation projects using machine learning](https://github.com/graphshade/donorschoose.git)
   - [Improving the Prediction of Property Assessed Value](https://github.com/graphshade/boston_house.git)
   - [Serving Fake News Detection Model Using Flask](https://github.com/graphshade/fake_news_detection.git)
